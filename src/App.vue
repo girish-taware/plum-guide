@@ -32,8 +32,8 @@
     <div v-show="showSmartCarousel" class="carousel">
       <PlumCarouselSmart
         class="carousel__component carousel__smart-component"
-        :imageUrls="imageUrls"
-        :maxImages="numberOfImages"
+        :image-urls="imageUrls"
+        :max-images="numberOfImages"
         :lazyload="true"
         :display-counter="true"
       >

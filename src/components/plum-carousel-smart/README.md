@@ -8,8 +8,8 @@ This component displays a carousel.
 
 ```html
     <PlumCarouselSmart
-    :imageUrls="imageUrls"
-    maxImages="30"
+    :image-urls="imageUrls"
+    max-images="30"
     :lazyload="true"
     :display-counter="true" />
 ```
