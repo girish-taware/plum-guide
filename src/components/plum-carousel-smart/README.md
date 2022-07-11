@@ -1,9 +1,6 @@
 # PlumCarouselSmart
 
-This component displays a carousel navigators and the content.
-
-Exposes a variable currentSlide via v-slot="{ currentSlide }" which can be used to display the slide in the content.
-Initial value of currentSlide is 1 i.e display the 1st slide/image.
+This component displays a carousel.
 
 ### Basic usage
 
